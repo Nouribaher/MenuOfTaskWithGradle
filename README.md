@@ -1,5 +1,5 @@
 
-
+# Novare : Software Development Academy | KTH => JAVA Project 
 
 
 
@@ -15,10 +15,16 @@
 
 
 # TodoList Project
-  This application simulation a a To-do list application to help you keep track the TODO list and chosse what you need to do.
+Allow me to draw your attention that Java is one of the most popular programming languages, in our case the Java app simulates the Todo List according to the Menu of Task by a program (“Intellij IDEA”) to help you keep track of the Todo List and it allows you to choose what you want to do as next one:
+  * [Create new tasks, assign them a title, project name and due date]
+  * [Edit, mark as done or remove tasks.]
+  * [Save the current task list to file]
+## Mockup 
+![Example1](https://github.com/Nouribaher/MenuOfTaskWithIntellijIDE/blob/master/Menu.png)
+  
 ## UML-Class-Diagram
 UML (Unified Modeling Language) means that it is a way of representing the structure of Todo lists that includes classes, objects, packages, and the relationships between those elements.
-![Example1](https://github.com/Nouribaher/TodoList/blob/main/TodoList-UML-Diagram.png).
+![Example2](https://github.com/Nouribaher/TodoList/blob/main/TodoList-UML-Diagram.png).
 
 ## Usage
 •	Using of easyUML that is a UML diagram tool for NetBeans.
@@ -50,5 +56,11 @@ import java.util.ArrayList;
         fileHandler.WriteAsData(taskArrayList);
         fileHandler.readASData();
 ```
-![Example2](https://github.com/Nouribaher/TodoList/blob/main/Screenshot1.png)
+![Example3](https://github.com/Nouribaher/TodoList/blob/main/Screenshot1.png)
 
+
+
+
+## Support
+Please enter an issue in the repo for any questions or problems. 
+<br> Alternatively, please contact me at nouri.baher19@gmail.com
